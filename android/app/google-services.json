@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233000124822",
+    "project_id": "kg1-chat-1dea6",
+    "storage_bucket": "kg1-chat-1dea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233000124822:android:603e2240de949672599db7",
+        "android_client_info": {
+          "package_name": "com.example.admin_kg1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233000124822-lto6bfmgh90et9ukq07q3vnj1kk5eb6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ekN7OJ7INkd0cLq0EFywwdwV6e7DOPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233000124822-lto6bfmgh90et9ukq07q3vnj1kk5eb6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
